@@ -1,0 +1,150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wc-alfabank-buy-easy\n"
+"POT-Creation-Date: 2021-03-08 23:15+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: SkyWeb <hi@skyweb.site>\n"
+"Language-Team: SkyWeb\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-helpers.php:91
+msgid "Buy Easy"
+msgstr ""
+
+#: includes/class-main.php:54
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wc-inactive.php:19
+msgid ""
+"Alfabank Buy Easy needs WooCommerce to run. Please, install and active "
+"WooCommerce plugin."
+msgstr ""
+
+#: includes/class-wc-settings.php:24
+msgid "Alfabank Buy Easy"
+msgstr ""
+
+#: includes/class-wc-settings.php:60
+msgid "API Settings"
+msgstr ""
+
+#: includes/class-wc-settings.php:62
+msgid "Unique identifiers of the store."
+msgstr ""
+
+#: includes/class-wc-settings.php:66
+msgid "Shop INN"
+msgstr ""
+
+#: includes/class-wc-settings.php:67
+msgid "12 characters maximum."
+msgstr ""
+
+#: includes/class-wc-settings.php:78
+msgid "Customization"
+msgstr ""
+
+#: includes/class-wc-settings.php:80
+msgid "Buy Easy button appearance settings."
+msgstr ""
+
+#: includes/class-wc-settings.php:84
+msgid "Buy Easy Button Name"
+msgstr ""
+
+#: includes/class-wc-settings.php:85
+msgid "If you leave this field empty, the default name is 'Buy Easy'."
+msgstr ""
+
+#: includes/class-wc-settings.php:90
+msgid "Open On New Window"
+msgstr ""
+
+#: includes/class-wc-settings.php:91
+msgid "Open loan processing on a new window (tab)?"
+msgstr ""
+
+#: includes/class-wc-settings.php:103
+msgid "Output"
+msgstr ""
+
+#: includes/class-wc-settings.php:105
+msgid "Buy Easy button location settings."
+msgstr ""
+
+#: includes/class-wc-settings.php:109
+msgid "Cart Page"
+msgstr ""
+
+#: includes/class-wc-settings.php:110
+msgid "Display button on cart page?"
+msgstr ""
+
+#: includes/class-wc-settings.php:116
+msgid "Location on Cart Page"
+msgstr ""
+
+#: includes/class-wc-settings.php:117
+msgid "Button location on the cart page"
+msgstr ""
+
+#: includes/class-wc-settings.php:121
+msgid "Before the cart"
+msgstr ""
+
+#: includes/class-wc-settings.php:122
+msgid "After the table of goods"
+msgstr ""
+
+#: includes/class-wc-settings.php:123
+msgid "Before the cart totals title"
+msgstr ""
+
+#: includes/class-wc-settings.php:125
+msgid "Before the cart totals"
+msgstr ""
+
+#: includes/class-wc-settings.php:126
+msgid "Before the checkout button"
+msgstr ""
+
+#: includes/class-wc-settings.php:128
+msgid "After the cart"
+msgstr ""
+
+#: includes/class-wc-settings.php:133
+msgid "Checkout Page"
+msgstr ""
+
+#: includes/class-wc-settings.php:134
+msgid "Display button on checkout page?"
+msgstr ""
+
+#: includes/class-wc-settings.php:140
+msgid "Location on Checkout Page"
+msgstr ""
+
+#: includes/class-wc-settings.php:141
+msgid "Button location on the checkout page"
+msgstr ""
+
+#: includes/class-wc-settings.php:145
+msgid "Before the checkout"
+msgstr ""
+
+#: includes/class-wc-settings.php:146
+msgid "After the checkout"
+msgstr ""
